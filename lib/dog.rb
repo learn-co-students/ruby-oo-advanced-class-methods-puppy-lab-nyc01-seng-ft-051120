@@ -1,4 +1,4 @@
-#require 'pry'
+require 'pry'
 
 class Dog
 
@@ -30,12 +30,3 @@ class Dog
 
 end
 
-#maizey = Dog.new("Maizey")
-#Dog.all
-#Dog.print_all
-#
-#snoopy = Dog.new("Snoopy")
-#Dog.all
-#Dog.print_all
-#
-#
